@@ -5,16 +5,16 @@
 # Create a dictionary of student:
 
 student = {
-    "name": "john",
-    "age": 22,
-    "grade": "B"
+    "Name": "john",
+    "Age": 22,
+    "Grade": "B"
 }
 
 # Update the 'grade' value to 'A':
-updated = student["grade"] = "A"
+updated = student["Grade"] = "A"
 
 # Add a new key-value pair for 'major' with the value 'Computer Science':
-student.update({"major": "computer science"})
+student.update({"Major": "computer science"})
 
 # Print student: 
 print(student)
