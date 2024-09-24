@@ -6,11 +6,11 @@
 
 # Create dictionary of 5 different countries with values are their capitals:
 countries = {
-    "france": "paris",
-    "japan": "tokye",
-    "canada": "ottawa",
-    "india": "New delhi",
-    "italy": "rome"
+    "France": "paris",
+    "Japan": "tokye",
+    "Canada": "ottawa",
+    "India": "New delhi",
+    "Italy": "rome"
 }
 
 
